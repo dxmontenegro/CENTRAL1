@@ -1,6 +1,6 @@
 {
   "name": "DMX Vento - Monitoramento",
-  "short_name": "DMX Vento",
+  "short_name": "DMX V2.0/ESP",
   "description": "Monitoramento de Velocidade do Vento e Automação via MQTT para o projeto Fernando Leão.",
   "start_url": "/index.html",
   "display": "standalone",
